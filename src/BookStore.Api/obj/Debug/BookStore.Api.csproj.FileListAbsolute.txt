@@ -26,3 +26,31 @@ c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Api\bin
 c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Api\obj\Debug\BookStore.Api.csprojResolveAssemblyReference.cache
 c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Api\obj\Debug\BookStore.Api.dll
 c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Api\obj\Debug\BookStore.Api.pdb
+C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Api.dll.config
+C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Api.dll
+C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Api.pdb
+C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Data.dll
+C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Domain.dll
+C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Utils.dll
+C:\dev\bookstore\src\BookStore.Api\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\dev\bookstore\src\BookStore.Api\bin\Microsoft.Practices.Unity.dll
+C:\dev\bookstore\src\BookStore.Api\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\dev\bookstore\src\BookStore.Api\bin\Newtonsoft.Json.dll
+C:\dev\bookstore\src\BookStore.Api\bin\System.Net.Http.Formatting.dll
+C:\dev\bookstore\src\BookStore.Api\bin\System.Web.Http.dll
+C:\dev\bookstore\src\BookStore.Api\bin\System.Web.Http.WebHost.dll
+C:\dev\bookstore\src\BookStore.Api\bin\EntityFramework.dll
+C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Data.pdb
+C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Domain.pdb
+C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Utils.pdb
+C:\dev\bookstore\src\BookStore.Api\bin\Microsoft.Practices.Unity.xml
+C:\dev\bookstore\src\BookStore.Api\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\dev\bookstore\src\BookStore.Api\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\dev\bookstore\src\BookStore.Api\bin\Newtonsoft.Json.xml
+C:\dev\bookstore\src\BookStore.Api\bin\System.Net.Http.Formatting.xml
+C:\dev\bookstore\src\BookStore.Api\bin\System.Web.Http.xml
+C:\dev\bookstore\src\BookStore.Api\bin\System.Web.Http.WebHost.xml
+C:\dev\bookstore\src\BookStore.Api\bin\EntityFramework.xml
+C:\dev\bookstore\src\BookStore.Api\obj\Debug\BookStore.Api.csprojResolveAssemblyReference.cache
+C:\dev\bookstore\src\BookStore.Api\obj\Debug\BookStore.Api.dll
+C:\dev\bookstore\src\BookStore.Api\obj\Debug\BookStore.Api.pdb
