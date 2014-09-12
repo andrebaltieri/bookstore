@@ -10,3 +10,15 @@ C:\Users\Andre\Documents\Visual Studio 2013\Projects\BookStore\BookStore.Data\bi
 C:\Users\Andre\Documents\Visual Studio 2013\Projects\BookStore\BookStore.Data\obj\Debug\BookStore.Data.csprojResolveAssemblyReference.cache
 C:\Users\Andre\Documents\Visual Studio 2013\Projects\BookStore\BookStore.Data\obj\Debug\BookStore.Data.dll
 C:\Users\Andre\Documents\Visual Studio 2013\Projects\BookStore\BookStore.Data\obj\Debug\BookStore.Data.pdb
+C:\dev\bookstore\src\BookStore.Data\bin\Debug\BookStore.Data.dll.config
+C:\dev\bookstore\src\BookStore.Data\bin\Debug\BookStore.Data.dll
+C:\dev\bookstore\src\BookStore.Data\bin\Debug\BookStore.Data.pdb
+C:\dev\bookstore\src\BookStore.Data\bin\Debug\BookStore.Domain.dll
+C:\dev\bookstore\src\BookStore.Data\bin\Debug\EntityFramework.dll
+C:\dev\bookstore\src\BookStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\bookstore\src\BookStore.Data\bin\Debug\BookStore.Domain.pdb
+C:\dev\bookstore\src\BookStore.Data\bin\Debug\EntityFramework.xml
+C:\dev\bookstore\src\BookStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\bookstore\src\BookStore.Data\obj\Debug\BookStore.Data.csprojResolveAssemblyReference.cache
+C:\dev\bookstore\src\BookStore.Data\obj\Debug\BookStore.Data.dll
+C:\dev\bookstore\src\BookStore.Data\obj\Debug\BookStore.Data.pdb

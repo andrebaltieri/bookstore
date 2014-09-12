@@ -26,6 +26,16 @@ namespace BookStore.Data.Repositories
             return _db.Books.Find(id);
         }
 
+        public List<Book> GetWithAuthors(int skip = 0, int take = 25)
+        {
+            return _db.Books.Include(x => x.Authors).OrderBy(x => x.Title).Skip(skip).Take(take).ToList();
+        }
+
+        public Book GetWithAuthors(int id)
+        {
+            return _db.Books.Include(x => x.Authors).Where(x => x.Id == id).FirstOrDefault();
+        }
+
         public void Create(Book entity)
         {
             _db.Books.Add(entity);

@@ -2,3 +2,8 @@ c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Domain\
 c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
 c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
 c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
+C:\dev\bookstore\src\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+C:\dev\bookstore\src\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+C:\dev\bookstore\src\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+C:\dev\bookstore\src\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
+C:\dev\bookstore\src\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache

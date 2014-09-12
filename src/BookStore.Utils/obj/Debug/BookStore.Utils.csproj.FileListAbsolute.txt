@@ -16,3 +16,23 @@ c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Utils\b
 c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Utils\bin\Debug\System.Web.Http.WebHost.xml
 c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Utils\obj\Debug\BookStore.Utils.dll
 c:\users\andre\documents\visual studio 2013\Projects\BookStore\BookStore.Utils\obj\Debug\BookStore.Utils.pdb
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\BookStore.Utils.dll
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\BookStore.Utils.pdb
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\Ionic.Zip.dll
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\Microsoft.Practices.Unity.dll
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\Newtonsoft.Json.dll
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\System.Net.Http.Formatting.dll
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\System.Web.Http.dll
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\System.Web.Http.WebHost.dll
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\Ionic.Zip.xml
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\Microsoft.Practices.Unity.xml
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\Newtonsoft.Json.xml
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\System.Net.Http.Formatting.xml
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\System.Web.Http.xml
+C:\dev\bookstore\src\BookStore.Utils\bin\Debug\System.Web.Http.WebHost.xml
+C:\dev\bookstore\src\BookStore.Utils\obj\Debug\BookStore.Utils.dll
+C:\dev\bookstore\src\BookStore.Utils\obj\Debug\BookStore.Utils.pdb

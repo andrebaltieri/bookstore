@@ -37,9 +37,14 @@ C:\dev\bookstore\src\BookStore.Api\bin\Microsoft.Practices.Unity.dll
 C:\dev\bookstore\src\BookStore.Api\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
 C:\dev\bookstore\src\BookStore.Api\bin\Newtonsoft.Json.dll
 C:\dev\bookstore\src\BookStore.Api\bin\System.Net.Http.Formatting.dll
+C:\dev\bookstore\src\BookStore.Api\bin\System.Web.Cors.dll
+C:\dev\bookstore\src\BookStore.Api\bin\System.Web.Http.Cors.dll
 C:\dev\bookstore\src\BookStore.Api\bin\System.Web.Http.dll
 C:\dev\bookstore\src\BookStore.Api\bin\System.Web.Http.WebHost.dll
+C:\dev\bookstore\src\BookStore.Api\bin\WebApi.OutputCache.Core.dll
+C:\dev\bookstore\src\BookStore.Api\bin\WebApi.OutputCache.V2.dll
 C:\dev\bookstore\src\BookStore.Api\bin\EntityFramework.dll
+C:\dev\bookstore\src\BookStore.Api\bin\Ionic.Zip.dll
 C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Data.pdb
 C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Domain.pdb
 C:\dev\bookstore\src\BookStore.Api\bin\BookStore.Utils.pdb
@@ -49,8 +54,10 @@ C:\dev\bookstore\src\BookStore.Api\bin\Microsoft.Practices.Unity.RegistrationByC
 C:\dev\bookstore\src\BookStore.Api\bin\Newtonsoft.Json.xml
 C:\dev\bookstore\src\BookStore.Api\bin\System.Net.Http.Formatting.xml
 C:\dev\bookstore\src\BookStore.Api\bin\System.Web.Http.xml
+C:\dev\bookstore\src\BookStore.Api\bin\System.Web.Http.Cors.xml
 C:\dev\bookstore\src\BookStore.Api\bin\System.Web.Http.WebHost.xml
 C:\dev\bookstore\src\BookStore.Api\bin\EntityFramework.xml
+C:\dev\bookstore\src\BookStore.Api\bin\Ionic.Zip.xml
 C:\dev\bookstore\src\BookStore.Api\obj\Debug\BookStore.Api.csprojResolveAssemblyReference.cache
 C:\dev\bookstore\src\BookStore.Api\obj\Debug\BookStore.Api.dll
 C:\dev\bookstore\src\BookStore.Api\obj\Debug\BookStore.Api.pdb
