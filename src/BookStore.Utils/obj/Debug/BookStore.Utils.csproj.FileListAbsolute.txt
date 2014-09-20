@@ -36,3 +36,4 @@ C:\dev\bookstore\src\BookStore.Utils\bin\Debug\System.Web.Http.xml
 C:\dev\bookstore\src\BookStore.Utils\bin\Debug\System.Web.Http.WebHost.xml
 C:\dev\bookstore\src\BookStore.Utils\obj\Debug\BookStore.Utils.dll
 C:\dev\bookstore\src\BookStore.Utils\obj\Debug\BookStore.Utils.pdb
+C:\dev\bookstore\src\BookStore.Utils\obj\Debug\BookStore.Utils.csprojResolveAssemblyReference.cache

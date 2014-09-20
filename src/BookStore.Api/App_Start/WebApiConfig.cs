@@ -19,7 +19,7 @@ namespace BookStore.Api
             container.RegisterType<IAuthorRepository, AuthorRepository>(new HierarchicalLifetimeManager());
             config.DependencyResolver = new UnityResolver(container);
 
-             //Remove o XML
+            //Remove o XML
             var formatters = GlobalConfiguration.Configuration.Formatters;
             formatters.Remove(formatters.XmlFormatter);
 
@@ -27,7 +27,7 @@ namespace BookStore.Api
             var jsonSettings = formatters.JsonFormatter.SerializerSettings;
             jsonSettings.Formatting = Formatting.Indented;
             jsonSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
-            
+
             // Modifica a serialização
             formatters.JsonFormatter.SerializerSettings.PreserveReferencesHandling = Newtonsoft.Json.PreserveReferencesHandling.Objects;
 
